@@ -5,13 +5,13 @@ a simple heap generator for python
 
 get:
 =============
-1.$ `git clone git@github.com:revolt313/pyheap.git`
+1 .`$ git clone git@github.com:revolt313/pyheap.git`
 
-2.$ `cd  ~/pyheap`
+2 .`$ cd  ~/pyheap`
 
-3.$ `sudo cp pyheap.py to /usr/lib/python2.7 with root access`
+3 .`$ sudo cp pyheap.py to /usr/lib/python2.7` ` with root access `
 
-finished :D
+finished !
 =============
 
 * read example code for more information
