@@ -4,8 +4,15 @@ a simple heap generator for python
 #installation:
 
 get:
-<git clone git@github.com:revolt313/pyheap.git>
+=============
+1.$ git clone git@github.com:revolt313/pyheap.git
 
-copy : pyheap.py to /usr/lib/python2.7 with root access
+2.$ cd  ~/pyheap
+
+3.$ sudo cp pyheap.py to /usr/lib/python2.7 with root access
 
 finished :D
+=============
+
+* read example code for more information
+
