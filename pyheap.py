@@ -1,4 +1,12 @@
 '''
+#****************************************************************
+# the simple heap module for create heap of chailds and parents.
+#****************************************************************
+# 				publiced with BSDlisance
+# 						2013
+# 			 author: revolt313(Hamid Rouhi)
+#################################################################
+
 	this module genarate tree of chars with it frequency,
 	this appear for some alghorithm like Huffman alghorithm
 
